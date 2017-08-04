@@ -1,5 +1,7 @@
 # ctcperl
-Perlbrew with Perl 26
+Perlbrew with Perl 26.  Perlbrew home directory structure inclusive.  Append contents of .bashrc-perlbrew to your .bashrc file.  Copy everything else to your home directory.  Create the necessary symlink for homedir or this Perl won't work.
+
+The above assumes a minimum level of understanding of Perl, perlbrew, and Linux.
 
 ## Build flags:
   - --thread
