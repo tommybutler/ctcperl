@@ -1142,3 +1142,47 @@ C<EXE_FILES: bin/tpage bin/ttree>
 
 =back
 
+=head2 Wed Aug 23 07:52:48 2017: C<Module> L<Number::Format|Number::Format>
+
+=over 4
+
+=item *
+
+C<installed into: /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Aug 23 07:52:49 2017: C<Module> L<Time::ParseDate|Time::ParseDate>
+
+=over 4
+
+=item *
+
+C<installed into: /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2015.103>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
