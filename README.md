@@ -10,10 +10,12 @@ The above assumes a minimum level of understanding of Perl, perlbrew, and Linux.
   - --64all
   - --ld
 
-## Modules
+## Modules (no particular order)
   - Mojolicious
   - Moo
   - Moose
   - JSON::XS
   - File::Util
   - Template::Toolkit
+  - DBD::ODBC (UnixODBC and FreeTDS setup left up to you)
+  - DBI
