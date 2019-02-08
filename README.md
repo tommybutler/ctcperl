@@ -17,3 +17,4 @@ The above assumes a minimum level of understanding of Perl, perlbrew, and Linux.
   - JSON::XS
   - File::Util
   - Template::Toolkit
+  - Cache::Memcached::Fast

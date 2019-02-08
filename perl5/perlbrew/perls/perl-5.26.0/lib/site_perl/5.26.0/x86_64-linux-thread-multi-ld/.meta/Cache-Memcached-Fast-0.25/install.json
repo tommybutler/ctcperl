@@ -1,0 +1,1 @@
+{"dist":"Cache-Memcached-Fast-0.25","provides":{"Cache::Memcached::Fast":{"version":"0.25","file":"lib/Cache/Memcached/Fast.pm"},"Memd":{"file":"t/Memd.pm"}},"version":"0.25","target":"Cache::Memcached::Fast","name":"Cache::Memcached::Fast","pathname":"R/RA/RAZ/Cache-Memcached-Fast-0.25.tar.gz"}

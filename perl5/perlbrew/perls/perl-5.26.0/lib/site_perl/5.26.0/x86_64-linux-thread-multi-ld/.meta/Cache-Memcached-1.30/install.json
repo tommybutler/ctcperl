@@ -1,0 +1,1 @@
+{"name":"Cache::Memcached","target":"Cache::Memcached","pathname":"D/DO/DORMANDO/Cache-Memcached-1.30.tar.gz","provides":{"Cache::Memcached::GetParser":{"file":"lib/Cache/Memcached/GetParser.pm"},"Cache::Memcached":{"file":"lib/Cache/Memcached.pm","version":"1.30"}},"version":"1.30","dist":"Cache-Memcached-1.30"}

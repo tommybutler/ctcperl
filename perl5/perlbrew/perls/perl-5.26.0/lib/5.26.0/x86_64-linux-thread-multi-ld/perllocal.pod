@@ -1252,3 +1252,135 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Thu Feb  7 17:59:07 2019: C<Module> L<String::CRC32|String::CRC32>
+
+=over 4
+
+=item *
+
+C<installed into: /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.7>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  7 17:59:13 2019: C<Module> L<Cache::Memcached|Cache::Memcached>
+
+=over 4
+
+=item *
+
+C<installed into: /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  7 17:59:20 2019: C<Module> L<Cache::Memcached::Fast|Cache::Memcached::Fast>
+
+=over 4
+
+=item *
+
+C<installed into: /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  7 18:04:34 2019: C<Module> L<String::CRC32|String::CRC32>
+
+=over 4
+
+=item *
+
+C<installed into: /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.7>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  7 18:04:39 2019: C<Module> L<Cache::Memcached|Cache::Memcached>
+
+=over 4
+
+=item *
+
+C<installed into: /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  7 18:04:45 2019: C<Module> L<Cache::Memcached::Fast|Cache::Memcached::Fast>
+
+=over 4
+
+=item *
+
+C<installed into: /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
