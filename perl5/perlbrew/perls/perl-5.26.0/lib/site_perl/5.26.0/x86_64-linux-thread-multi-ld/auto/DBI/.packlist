@@ -18,6 +18,7 @@
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0/x86_64-linux-thread-multi-ld/DBD/Gofer/Transport/null.pm
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0/x86_64-linux-thread-multi-ld/DBD/Gofer/Transport/pipeone.pm
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0/x86_64-linux-thread-multi-ld/DBD/Gofer/Transport/stream.pm
+/home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0/x86_64-linux-thread-multi-ld/DBD/Mem.pm
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0/x86_64-linux-thread-multi-ld/DBD/NullP.pm
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0/x86_64-linux-thread-multi-ld/DBD/Proxy.pm
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/lib/site_perl/5.26.0/x86_64-linux-thread-multi-ld/DBD/Sponge.pm
@@ -82,6 +83,7 @@
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/man/man3/DBD::Gofer::Transport::null.3
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/man/man3/DBD::Gofer::Transport::pipeone.3
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/man/man3/DBD::Gofer::Transport::stream.3
+/home/tommy/perl5/perlbrew/perls/perl-5.26.0/man/man3/DBD::Mem.3
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/man/man3/DBD::Proxy.3
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/man/man3/DBD::Sponge.3
 /home/tommy/perl5/perlbrew/perls/perl-5.26.0/man/man3/DBI.3

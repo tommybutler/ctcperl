@@ -67,7 +67,7 @@
 .\" ========================================================================
 .\"
 .IX Title "DBI 3"
-.TH DBI 3 "2017-08-14" "perl v5.26.0" "User Contributed Perl Documentation"
+.TH DBI 3 "2018-03-19" "perl v5.26.0" "User Contributed Perl Documentation"
 .\" For nroff, turn off justification.  Always turn off hyphenation; it makes
 .\" way too many mistakes in technical documents.
 .if n .ad l
@@ -200,7 +200,7 @@ page for your driver. Only submit a bug report against the \s-1DBI\s0 itself if 
 sure that your issue isn't related to the driver you're using.
 .SS "\s-1NOTES\s0"
 .IX Subsection "NOTES"
-This is the \s-1DBI\s0 specification that corresponds to \s-1DBI\s0 version 1.637
+This is the \s-1DBI\s0 specification that corresponds to \s-1DBI\s0 version 1.641
 (see DBI::Changes for details).
 .PP
 The \s-1DBI\s0 is evolving at a steady pace, so it's good to check that
@@ -5803,7 +5803,7 @@ an exception.  For example, using Try::Tiny:
 \&      # but do it in an eval{} as it may also fail
 \&      eval { $dbh\->rollback };
 \&      # add other application on\-error\-clean\-up code here
-\&  }
+\&  };
 .Ve
 .PP
 If the \f(CW\*(C`RaiseError\*(C'\fR attribute is not set, then \s-1DBI\s0 calls would need to be

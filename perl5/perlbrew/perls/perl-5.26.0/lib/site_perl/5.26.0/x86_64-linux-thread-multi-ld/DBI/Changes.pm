@@ -6,7 +6,37 @@ DBI::Changes - List of significant changes to the DBI
 
 =cut
 
-=head2 Changes in DBI 1.637 - ...
+=head2 Changes in DBI 1.641 - 19th March 2018
+
+    Remove dependency on Storable 2.16 introduced in DBI 1.639
+        thanks to Ribasushi #60
+    Avoid compiler warnings in Driver.xst #59
+        thanks to pali #59
+
+=head2 Changes in DBI 1.640 - 28th January 2018
+
+    Fix test t/91_store_warning.t for perl 5.10.0
+        thanks to pali #57
+
+    Add Perl 5.10.0 and 5.8.1 specific versions to Travis testing
+        thanks to pali #57
+    Add registration of mariadb_ prefix for new DBD::MariaDB driver
+        thanks to pali #56
+
+=head2 Changes in DBI 1.639 - 28th December 2017
+
+    Fix UTF-8 support for warn/croak calls within DBI internals,
+        thanks to pali #53
+    Fix dependency on Storable for perl older than 5.8.9,
+        thanks to H.Merijn Brand.
+
+    Add DBD::Mem driver, a pure-perl in-memory driver using DBI::DBD::SqlEngine,
+        thanks to Jens Rehsack #42
+
+    Corrected missing semicolon in example in documentation,
+        thanks to pali #55
+
+=head2 Changes in DBI 1.637 - 16th August 2017
 
     Fix use of externally controlled format string (CWE-134) thanks to pali #44
         This could cause a crash if, for example, a db error contained a %.
@@ -15,6 +45,7 @@ DBI::Changes - List of significant changes to the DBI
     Fix tests for perl without dot in @INC RT#120443
     Fix loss of error message on parent handle, thanks to charsbar #34
     Fix disappearing $_ inside callbacks, thanks to robschaber #47
+    Fix dependency on Storable for perl older than 5.8.9
 
     Allow objects to be used as passwords without throwing an error, thanks to demerphq #40
     Allow $sth NAME_* attributes to be set from Perl code, re #45
